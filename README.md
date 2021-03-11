@@ -11,7 +11,7 @@
 'Gilt-Head Bream', 'Red Sea Bream']**
 
 
-#### The app is live here: fishvision.herokuapp.com
+#### The app is live here: www.fishvision.herokuapp.com
 
 ## Built Using Transfer Learning, Streamlit, and Love  ❤️
 
