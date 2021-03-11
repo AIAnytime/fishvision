@@ -22,10 +22,7 @@ If you want to train on same data, find the dataset here: https://www.kaggle.com
 
 To train the model using MobileNetV2, run the notebook in Colab or the local machine.
 ### Requirements and Installation
-You can run Pigar ( **pip install pigar** if you don't have it) in the working directory to generate requirements.txt file and then install the requirements using below commands:
-```sh
-pigar
-```
+You can run below command in the working directory to install the requirements:
 
 ```sh
 pip3 install requirements.txt
