@@ -11,6 +11,8 @@
 'Gilt-Head Bream', 'Red Sea Bream']**
 
 
+#### The app is live here: fishvision.herokuapp.com
+
 ## Built Using Transfer Learning, Streamlit, and Love  ❤️
 
 You can read more on MobileNetV2 here: https://www.tensorflow.org/api_docs/python/tf/keras/applications/MobileNetV2
