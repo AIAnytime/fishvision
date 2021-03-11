@@ -37,6 +37,27 @@ pip3 install requirements.txt
 ```sh
 streamlit run app.py .
 ```
+
+#### If you want to deploy the app on Heroku after modification then follow below steps in your terminal:
+
+```sh
+$ heroku login.
+```
+
+```sh
+$ cd my-project/
+$ git init
+$ heroku git:remote -a fishvision
+```
+
+
+```sh
+$ git add .
+$ git commit -am "make it better"
+$ git push heroku master
+```
+
+
 If you stuck somewhere, you can reach out to me on sonu1000raw@gmail.com 
 
 Thanks 😇
