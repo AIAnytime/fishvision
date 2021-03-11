@@ -28,7 +28,7 @@ You can run below command in the working directory to install the requirements:
 pip3 install requirements.txt
 ```
 
-
+To start the app, go inside fishvision directory and follow the below steps:
 #### Start the application using below command👇
 
 ```sh
