@@ -34,8 +34,9 @@ To start the app, go inside fishvision directory and follow the below steps:
 ```sh
 streamlit run app.py .
 ```
-
-#### If you want to deploy the app on Heroku after modification then follow below steps in your terminal:
+## Deployment
+#### If you want to deploy the app on Heroku after modification then follow below steps in your terminal (Same app working directory):
+You must need an account on Heroku.
 
 ```sh
 $ heroku login.
@@ -53,7 +54,8 @@ $ git add .
 $ git commit -am "make it better"
 $ git push heroku master
 ```
-
+#### If you want to use Docker👇
+Find the Docker Image of FishVision here:https://hub.docker.com/repository/docker/sonucr07/fishvision
 
 If you stuck somewhere, you can reach out to me on sonu1000raw@gmail.com 
 
